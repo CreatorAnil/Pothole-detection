@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>668.jpg</filename>
+	<path>C:\Users\Admin\Desktop\project\images\668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>239</ymin>
+			<xmax>770</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>
